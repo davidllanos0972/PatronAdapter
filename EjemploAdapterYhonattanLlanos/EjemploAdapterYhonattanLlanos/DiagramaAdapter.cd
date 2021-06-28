@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EjemploAdapterYhonattanLlanos.MotorDiesel" Collapsed="true">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAgAAIAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>MotorDiesel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EjemploAdapterYhonattanLlanos.MotorElectrico" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAEAgAAAAAAGACAABAIAAAIAAAAIAAAAAA=</HashCode>
+      <FileName>MotorElectrico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjemploAdapterYhonattanLlanos.MotorElectricoAdapter" Collapsed="true">
+    <Position X="8.25" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAgAAIAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>MotorElectricoAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EjemploAdapterYhonattanLlanos.MotorGasolina" Collapsed="true">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAgAAIAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>MotorGasolina.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="EjemploAdapterYhonattanLlanos.IMotor" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAgAAIAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>IMotor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
